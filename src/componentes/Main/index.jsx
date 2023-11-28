@@ -1,8 +1,8 @@
-import { Container, Paragraph } from "./styles"
+import { Title, Paragraph, Wrapper, Image, Span } from "./styles"
 
 import img1 from '../../imgs/img1.jpg'
 
-export function Wrapper(){
+export function Main(){
     return(
         <Wrapper>
             <Image>

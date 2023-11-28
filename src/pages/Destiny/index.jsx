@@ -1,12 +1,11 @@
 import { Main } from '../../componentes/Main'
 import { Footer } from '../../componentes/Footer'
 
-export function Home(){
+export function Destiny(){
     
     return(
         <>
-            {/* Main */}
-            <Main/>
+          <h1> Página Destino </h1>
             {/* Footer */}
             <Footer/>
         </>
